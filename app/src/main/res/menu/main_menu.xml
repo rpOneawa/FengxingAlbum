@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_activate"
+        android:title="输入激活码"/>
+
+    <item
+        android:id="@+id/action_website"
+        android:title="软件官网"/>
+</menu>
